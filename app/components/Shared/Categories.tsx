@@ -5,7 +5,7 @@ import { categories, category } from '../../data/categories';
 
 export default function CategoriesSection() {
     return (
-        <div className="container mt-24 mx-auto">
+        <div className="container mt-24 mb-24 mx-auto">
             <div className='flex justify-center gap-4 items-center'>
                 {
                     categories.map((category: category) => {

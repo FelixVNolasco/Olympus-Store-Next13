@@ -12,7 +12,7 @@ const nextConfig = {
     //     pathname: ""
     //   }
     // ]
-    domains: ["res.cloudinary.com"]
+    domains: ["res.cloudinary.com", "img.icons8.com"]
   }
 }
 
